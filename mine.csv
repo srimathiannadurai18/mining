@@ -1,0 +1,6 @@
+Block_ID,X_coord,Y_coord,Z_coord,Tonnage,Grade_Fe,Status,Destination
+B003,1860,1562,115,878,60.09,Unmined,Waste_Dump
+B004,2294,2899,105,1272,64.08,Unmined,Waste_Dump
+B006,2095,2267,105,730,59.1,Unmined,Crusher
+B007,4772,3879,115,540,62.56,Unmined,Waste_Dump
+B009,2638,4202,110,634,55.77,Unmined,Crusher
